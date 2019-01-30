@@ -1,1 +1,1 @@
-# detect-scripts
+httpnotonly.github.io/detect-scripts/
